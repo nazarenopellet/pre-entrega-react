@@ -16,6 +16,7 @@ align-items: center;
 
 .header-logo{
     width: 90px;
+    left: 90px;
 }
 
 .navbar{
